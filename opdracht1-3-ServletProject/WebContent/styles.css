@@ -1,0 +1,26 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: inherit;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+caption {
+    font-weight: bold;
+    font-family: arial, sans-serif;
+    border: 1px solid #dddddd;
+    background-color: powderblue;
+    padding: 8px;
+}
+#table1 {
+	margin-bottom:50px;
+}
